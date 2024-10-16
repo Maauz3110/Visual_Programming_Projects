@@ -1,0 +1,14 @@
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#5\Activity#3\Activity#3\obj\Debug\net8.0\Activity#3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#5\Activity#3\Activity#3\obj\Debug\net8.0\Activity#3.AssemblyInfoInputs.cache
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#5\Activity#3\Activity#3\obj\Debug\net8.0\Activity#3.AssemblyInfo.cs
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#5\Activity#3\Activity#3\obj\Debug\net8.0\Activity#3.csproj.CoreCompileInputs.cache
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#5\Activity#3\Activity#3\bin\Debug\net8.0\Activity#3.exe
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#5\Activity#3\Activity#3\bin\Debug\net8.0\Activity#3.deps.json
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#5\Activity#3\Activity#3\bin\Debug\net8.0\Activity#3.runtimeconfig.json
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#5\Activity#3\Activity#3\bin\Debug\net8.0\Activity#3.dll
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#5\Activity#3\Activity#3\bin\Debug\net8.0\Activity#3.pdb
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#5\Activity#3\Activity#3\obj\Debug\net8.0\Activity#3.dll
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#5\Activity#3\Activity#3\obj\Debug\net8.0\refint\Activity#3.dll
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#5\Activity#3\Activity#3\obj\Debug\net8.0\Activity#3.pdb
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#5\Activity#3\Activity#3\obj\Debug\net8.0\Activity#3.genruntimeconfig.cache
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#5\Activity#3\Activity#3\obj\Debug\net8.0\ref\Activity#3.dll
