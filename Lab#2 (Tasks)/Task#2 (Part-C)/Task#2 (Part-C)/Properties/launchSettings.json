@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Task#2 (Part-C)": {
+      "commandName": "Project",
+      "commandLineArgs": "one two three"
+    }
+  }
+}
