@@ -1,0 +1,14 @@
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#2\Task#2 (Part-B)\Task#2 (Part-B)\bin\Debug\net8.0\Task#2 (Part-B).exe
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#2\Task#2 (Part-B)\Task#2 (Part-B)\bin\Debug\net8.0\Task#2 (Part-B).deps.json
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#2\Task#2 (Part-B)\Task#2 (Part-B)\bin\Debug\net8.0\Task#2 (Part-B).runtimeconfig.json
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#2\Task#2 (Part-B)\Task#2 (Part-B)\bin\Debug\net8.0\Task#2 (Part-B).dll
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#2\Task#2 (Part-B)\Task#2 (Part-B)\bin\Debug\net8.0\Task#2 (Part-B).pdb
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#2\Task#2 (Part-B)\Task#2 (Part-B)\obj\Debug\net8.0\Task#2 (Part-B).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#2\Task#2 (Part-B)\Task#2 (Part-B)\obj\Debug\net8.0\Task#2 (Part-B).AssemblyInfoInputs.cache
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#2\Task#2 (Part-B)\Task#2 (Part-B)\obj\Debug\net8.0\Task#2 (Part-B).AssemblyInfo.cs
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#2\Task#2 (Part-B)\Task#2 (Part-B)\obj\Debug\net8.0\Task#2 (Part-B).csproj.CoreCompileInputs.cache
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#2\Task#2 (Part-B)\Task#2 (Part-B)\obj\Debug\net8.0\Task#2 (Part-B).dll
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#2\Task#2 (Part-B)\Task#2 (Part-B)\obj\Debug\net8.0\refint\Task#2 (Part-B).dll
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#2\Task#2 (Part-B)\Task#2 (Part-B)\obj\Debug\net8.0\Task#2 (Part-B).pdb
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#2\Task#2 (Part-B)\Task#2 (Part-B)\obj\Debug\net8.0\Task#2 (Part-B).genruntimeconfig.cache
+C:\Users\Online Computer\OneDrive\Desktop\233599,VP,LAB#2\Task#2 (Part-B)\Task#2 (Part-B)\obj\Debug\net8.0\ref\Task#2 (Part-B).dll
