@@ -1,0 +1,10 @@
+D:\Assignment02_233599\Assignment02_233599\Assignment02_233599\bin\Debug\Assignment02_233599.exe.config
+D:\Assignment02_233599\Assignment02_233599\Assignment02_233599\bin\Debug\Assignment02_233599.exe
+D:\Assignment02_233599\Assignment02_233599\Assignment02_233599\bin\Debug\Assignment02_233599.pdb
+D:\Assignment02_233599\Assignment02_233599\Assignment02_233599\obj\Debug\Assignment02_233599.csproj.AssemblyReference.cache
+D:\Assignment02_233599\Assignment02_233599\Assignment02_233599\obj\Debug\Assignment02_233599.Form1.resources
+D:\Assignment02_233599\Assignment02_233599\Assignment02_233599\obj\Debug\Assignment02_233599.Properties.Resources.resources
+D:\Assignment02_233599\Assignment02_233599\Assignment02_233599\obj\Debug\Assignment02_233599.csproj.GenerateResource.cache
+D:\Assignment02_233599\Assignment02_233599\Assignment02_233599\obj\Debug\Assignment02_233599.csproj.CoreCompileInputs.cache
+D:\Assignment02_233599\Assignment02_233599\Assignment02_233599\obj\Debug\Assignment02_233599.exe
+D:\Assignment02_233599\Assignment02_233599\Assignment02_233599\obj\Debug\Assignment02_233599.pdb
