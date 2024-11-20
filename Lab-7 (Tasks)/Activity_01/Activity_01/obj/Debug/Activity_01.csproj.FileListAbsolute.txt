@@ -1,0 +1,10 @@
+D:\VP, LAB-8\Activity_01\Activity_01\bin\Debug\Activity_01.exe.config
+D:\VP, LAB-8\Activity_01\Activity_01\bin\Debug\Activity_01.exe
+D:\VP, LAB-8\Activity_01\Activity_01\bin\Debug\Activity_01.pdb
+D:\VP, LAB-8\Activity_01\Activity_01\bin\Debug\System.Data.OleDb.dll
+D:\VP, LAB-8\Activity_01\Activity_01\bin\Debug\System.Data.OleDb.xml
+D:\VP, LAB-8\Activity_01\Activity_01\obj\Debug\Activity_01.csproj.AssemblyReference.cache
+D:\VP, LAB-8\Activity_01\Activity_01\obj\Debug\Activity_01.csproj.CoreCompileInputs.cache
+D:\VP, LAB-8\Activity_01\Activity_01\obj\Debug\Activity.90754B01.Up2Date
+D:\VP, LAB-8\Activity_01\Activity_01\obj\Debug\Activity_01.exe
+D:\VP, LAB-8\Activity_01\Activity_01\obj\Debug\Activity_01.pdb
