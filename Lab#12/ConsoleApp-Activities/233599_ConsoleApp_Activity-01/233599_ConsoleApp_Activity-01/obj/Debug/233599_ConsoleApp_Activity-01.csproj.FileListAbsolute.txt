@@ -1,0 +1,14 @@
+D:\DSA-LAB11\233599_ConsoleApp_Activity-01\233599_ConsoleApp_Activity-01\bin\Debug\233599_ConsoleApp_Activity-01.exe.config
+D:\DSA-LAB11\233599_ConsoleApp_Activity-01\233599_ConsoleApp_Activity-01\bin\Debug\233599_ConsoleApp_Activity-01.exe
+D:\DSA-LAB11\233599_ConsoleApp_Activity-01\233599_ConsoleApp_Activity-01\bin\Debug\233599_ConsoleApp_Activity-01.pdb
+D:\DSA-LAB11\233599_ConsoleApp_Activity-01\233599_ConsoleApp_Activity-01\obj\Debug\233599_ConsoleApp_Activity-01.csproj.AssemblyReference.cache
+D:\DSA-LAB11\233599_ConsoleApp_Activity-01\233599_ConsoleApp_Activity-01\obj\Debug\233599_ConsoleApp_Activity-01.csproj.CoreCompileInputs.cache
+D:\DSA-LAB11\233599_ConsoleApp_Activity-01\233599_ConsoleApp_Activity-01\obj\Debug\233599_ConsoleApp_Activity-01.exe
+D:\DSA-LAB11\233599_ConsoleApp_Activity-01\233599_ConsoleApp_Activity-01\obj\Debug\233599_ConsoleApp_Activity-01.pdb
+D:\VP-LAB-12\233599_ConsoleApp_Activity-01\233599_ConsoleApp_Activity-01\bin\Debug\233599_ConsoleApp_Activity-01.exe.config
+D:\VP-LAB-12\233599_ConsoleApp_Activity-01\233599_ConsoleApp_Activity-01\bin\Debug\233599_ConsoleApp_Activity-01.exe
+D:\VP-LAB-12\233599_ConsoleApp_Activity-01\233599_ConsoleApp_Activity-01\bin\Debug\233599_ConsoleApp_Activity-01.pdb
+D:\VP-LAB-12\233599_ConsoleApp_Activity-01\233599_ConsoleApp_Activity-01\obj\Debug\233599_ConsoleApp_Activity-01.csproj.AssemblyReference.cache
+D:\VP-LAB-12\233599_ConsoleApp_Activity-01\233599_ConsoleApp_Activity-01\obj\Debug\233599_ConsoleApp_Activity-01.csproj.CoreCompileInputs.cache
+D:\VP-LAB-12\233599_ConsoleApp_Activity-01\233599_ConsoleApp_Activity-01\obj\Debug\233599_ConsoleApp_Activity-01.exe
+D:\VP-LAB-12\233599_ConsoleApp_Activity-01\233599_ConsoleApp_Activity-01\obj\Debug\233599_ConsoleApp_Activity-01.pdb
