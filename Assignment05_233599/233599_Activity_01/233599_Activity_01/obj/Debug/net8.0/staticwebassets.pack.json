@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Online Computer\\OneDrive\\Desktop\\VP-ASSIGNMENT#5\\233599_Activity_01\\233599_Activity_01\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\233599_Activity_01.bundle.scp.css",
+      "PackagePath": "staticwebassets\\233599_Activity_01.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Online Computer\\OneDrive\\Desktop\\VP-ASSIGNMENT#5\\233599_Activity_01\\233599_Activity_01\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Online Computer\\OneDrive\\Desktop\\VP-ASSIGNMENT#5\\233599_Activity_01\\233599_Activity_01\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Online Computer\\OneDrive\\Desktop\\VP-ASSIGNMENT#5\\233599_Activity_01\\233599_Activity_01\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Online Computer\\OneDrive\\Desktop\\VP-ASSIGNMENT#5\\233599_Activity_01\\233599_Activity_01\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Online Computer\\OneDrive\\Desktop\\VP-ASSIGNMENT#5\\233599_Activity_01\\233599_Activity_01\\wwwroot\\images\\America.png",
+      "PackagePath": "staticwebassets\\images\\America.png"
+    },
+    {
+      "Id": "C:\\Users\\Online Computer\\OneDrive\\Desktop\\VP-ASSIGNMENT#5\\233599_Activity_01\\233599_Activity_01\\wwwroot\\images\\Australia.png",
+      "PackagePath": "staticwebassets\\images\\Australia.png"
+    },
+    {
+      "Id": "C:\\Users\\Online Computer\\OneDrive\\Desktop\\VP-ASSIGNMENT#5\\233599_Activity_01\\233599_Activity_01\\wwwroot\\images\\Iran.png",
+      "PackagePath": "staticwebassets\\images\\Iran.png"
+    },
+    {
+      "Id": "C:\\Users\\Online Computer\\OneDrive\\Desktop\\VP-ASSIGNMENT#5\\233599_Activity_01\\233599_Activity_01\\wwwroot\\images\\Pakistan.png",
+      "PackagePath": "staticwebassets\\images\\Pakistan.png"
+    },
+    {
+      "Id": "C:\\Users\\Online Computer\\OneDrive\\Desktop\\VP-ASSIGNMENT#5\\233599_Activity_01\\233599_Activity_01\\wwwroot\\images\\SaudiArabia.png",
+      "PackagePath": "staticwebassets\\images\\SaudiArabia.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.233599_Activity_01.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.233599_Activity_01.props",
+      "PackagePath": "build\\233599_Activity_01.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.233599_Activity_01.props",
+      "PackagePath": "buildMultiTargeting\\233599_Activity_01.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.233599_Activity_01.props",
+      "PackagePath": "buildTransitive\\233599_Activity_01.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
